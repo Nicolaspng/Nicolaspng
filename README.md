@@ -1,4 +1,4 @@
-## Ola, sou o Nicolas! 👋
+## Ola, sou o Nicolas estudandte do Alura  👋
 
 <!--
 **Nicolaspng/Nicolaspng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
